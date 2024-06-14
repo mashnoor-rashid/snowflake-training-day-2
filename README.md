@@ -1,0 +1,1 @@
+# snowflake-training-day-2
